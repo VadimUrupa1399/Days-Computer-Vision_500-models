@@ -2,7 +2,7 @@
 
 Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 
-![](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post/blob/main/poster.gif)
+![]()
 
 | Days | Topic                                        | Post Link              |
 | ---- | -------------------------------------------- | ---------------------- |
