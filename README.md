@@ -1,6 +1,5 @@
 ## 365 Days Computer Vision Learning LinkedIn Post
 
-Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 
 ![]()
 
